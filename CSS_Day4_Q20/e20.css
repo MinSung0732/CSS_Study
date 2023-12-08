@@ -1,0 +1,24 @@
+*{
+    background-color: pink;
+}
+
+#box{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    width: 800px;
+    height: auto;
+}
+
+.ex{
+    width: 100px;
+    height: 100px;
+}
+
+.black{
+    background-color: violet;
+}
+
+.white{
+    background-color: black;
+}
