@@ -1,0 +1,15 @@
+#main{
+    display: flex;
+    flex-direction: row;
+    background-color: pink;
+
+    justify-content: center;
+
+    width: 1000px;
+    height: 200px;
+}
+
+#a{
+    background-color: red;
+    flex-basis: 10%;
+}
