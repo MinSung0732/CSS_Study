@@ -1,0 +1,30 @@
+#top{
+    display: flex;
+    height: 200px;
+}
+#center{
+    width: 800px;
+    height: 100px;
+    background-color: yellow;
+}
+#bot{
+    display: flex;
+    height: 600px;
+}
+
+#top_main1{
+    width: 200px;
+    background-color: red;
+}
+#top_sub1{
+    width: 600px;
+    background-color: orange;
+}
+#bot_menu2{
+    width: 200px;
+    background-color: green;
+}
+#bot_main2{
+    width: 600px;
+    background-color: blue;
+}
