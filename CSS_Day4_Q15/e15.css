@@ -1,0 +1,33 @@
+#main{
+    display: flex;
+    flex-direction: row;
+    width: 1000px;
+    height: 1000px;
+}
+
+/* flex-basis = 플렉스 공간비율 설정 */
+
+#a{
+    background-color: aqua;
+    flex-basis: 10%;
+}
+#b{
+    background-color: red;
+    flex-basis: 20%;
+}
+#c{
+    background-color: blue;
+    flex-basis: 20%;
+}
+#d{
+    background-color: pink;
+    flex-basis: 20%;
+}
+#e{
+    background-color: violet;
+    flex-basis: 20%;
+}
+#f{
+    background-color: rosybrown;
+    flex-basis: 10%;
+}
