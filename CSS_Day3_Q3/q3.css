@@ -1,0 +1,9 @@
+img{
+    width: 200px;
+}
+#cat0{
+    margin: 10px;
+    border: 5px pink dashed;
+    padding: 10px;
+    border-radius: 400px;
+}
