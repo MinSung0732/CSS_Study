@@ -1,0 +1,114 @@
+/* 메인 */
+
+#main{
+    display: flex;
+}
+
+/* 왼쪽 메인 */
+
+#left_main0{
+    width: 600px;
+    height: 600px;
+    background-color: red;
+}
+
+/* 상단 백그라운드*/
+
+#top{
+    width: 600px;
+    height: 100px;
+    background-color: aquamarine;
+}
+
+
+/* 중단 백그라운드 */
+
+#mid{
+    width: 600px;
+    height: 60px;
+    background-color: black;
+}
+
+/* 하단 백그라운드 */
+
+#bot{
+    width: 600px;
+    height: 440px;
+}
+
+/* 우측 배너영역 */
+
+#top_right2{
+    background-color: green;
+    width: 100px;
+    height: 600px;
+    float: left;
+}
+
+/* 상단 로고 및 배너 */
+
+#top_left{
+    width: 300px;
+    height: 100px;
+    float: left;
+    background-color: rosybrown;
+}
+
+#top_right{
+    width: 300px;
+    height: 100px;
+    float: left;
+    background-color: lightblue;
+}
+
+/* 중단 메뉴 영역 */
+
+#mid_menu1{
+    width: 120px;
+    height: 60px;
+    background-color: beige;
+    float: left;
+}
+#ggg{
+    width: 120px;
+    height: 60px;
+}
+#mid_menu2{
+    width: 120px;
+    height: 60px;
+    background-color: blueviolet;
+    float: left;
+}
+#mid_menu3{
+    width: 120px;
+    height: 60px;
+    background-color: chartreuse;
+    float: left;
+}
+#mid_menu4{
+    width: 120px;
+    height: 60px;
+    background-color: coral;
+    float: left;
+}
+#mid_menu5{
+    width: 120px;
+    height: 60px;
+    background-color: darkorchid;
+    float: left;
+}
+
+/* 하단 컨텐츠 영역 */
+
+#bot_left{
+    width: 120px;
+    height: 440px;
+    background-color: crimson;
+    float: left;
+}
+#bot_right{
+    width: 480px;
+    height: 440px;
+    background-color: darkblue;
+    float: left;
+}
