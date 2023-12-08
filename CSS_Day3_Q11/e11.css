@@ -1,0 +1,42 @@
+
+/* 링크사이즈 */
+
+a{
+    font-size: 300%;
+}
+
+/* 한번 갔엇던 링크들의 색상 */
+
+a:link{
+    color: red;
+}
+
+/* 링크 주소 색상 */
+
+a:visited{
+    color: orange;
+}
+
+/* 링크에 마우스 올려놨을때 */
+
+a:hover{
+    color: aqua;
+}
+
+/* 링크 눌렀을때 */
+
+a:active{
+    color: blue;
+}
+
+/* 글씨창 눌렀을때 색상 */
+
+input:focus{
+    background-color: pink;
+}
+
+/* 링크 통해 가상변수를 찾앗을때 */
+
+div>p:target{
+    background-color: gray;
+}
