@@ -1,0 +1,28 @@
+#main{
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    width: 1000px;
+    height: 1000px;
+}
+
+#a{
+    background-color: red;
+    flex-basis: 20%;
+}
+#b{
+    background-color: blue;
+    flex-basis: 20%;
+}
+#c{
+    background-color: yellow;
+    flex-basis: 20%;
+}
+#d{
+    background-color: violet;
+    flex-basis: 20%;
+}
+#e{
+    background-color: pink;
+    flex-basis: 20%;
+}
