@@ -1,0 +1,11 @@
+div p{
+    color: crimson;
+}
+
+div>b{
+    color: violet;
+}
+
+p+b{
+    color: yellow;
+}
