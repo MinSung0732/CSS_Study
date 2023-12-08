@@ -1,0 +1,16 @@
+#main{
+    display: flex;
+    flex-direction: row;
+    background-color: pink;
+    
+    align-items: center;
+
+    width: 200px;
+    height: 1000px;
+}
+
+#a{
+    background-color: red;
+    width: 200px;
+    height: 100px;
+}
